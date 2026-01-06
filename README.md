@@ -38,7 +38,7 @@ This CLI tool is your minimalist companion 🧑‍💻. It doesn’t overwhelm y
 - 🎓 Beginner‑friendly code structure
 
 🔮 Future Ideas 🔮
-This project is just the beginning ✨. Imagine adding:
+This project is just the beginning ✨. I'm thinking to add:
 - ✅ Task completion status (✔️ / ❌)
 - 📅 Deadlines and reminders
 - 🔼 Priority levels (🔥 High, 🌟 Medium, 💤 Low)
